@@ -1,3 +1,5 @@
+Deployed on Netlify: https://wonderful-beaver-f6fbaf.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
